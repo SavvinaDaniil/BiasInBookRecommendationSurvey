@@ -14,6 +14,15 @@ print(nr_results)
 # print(help(pub_parser))
 i = 0
 while i<nr_results:
-    result = next(search_query)['bib']
-    print(result)
+    current_result = next(search_query)
+    
+    info = current_result['bib']
+    # print(info.keys())
+    try:
+        pub_url = current_result['pub_url']
+        print(pub_url)
+    except:
+        pub_url = 'missing'
+    
     i+=1
+    print(i)
