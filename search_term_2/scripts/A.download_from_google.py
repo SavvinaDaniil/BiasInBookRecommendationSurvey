@@ -5,7 +5,7 @@ print('hi')
 from scholarly import scholarly, ProxyGenerator
 print('hi')
 import pickle as pkl
-
+import time
 
 # pg = ProxyGenerator() 
 # success = pg.FreeProxies()
@@ -38,8 +38,13 @@ while i<nr_results:
         pub_url = 'missing'
     pbar.update(1)
     i+=1
+    if i%100==0:
+        with open('search_term_2/datasets/google_results.pkl', 'wb') as handle:
+            pkl.dump(all_results, handle, protocol=pkl.HIGHEST_PROTOCOL)
+        time.sleep(10) # hopefully it won't crash
+        
     all_results.append(current_result)
 pbar.close()
 
-with open('datasets/google_results.pkl', 'wb') as handle:
+with open('search_term_2/datasets/google_results.pkl', 'wb') as handle:
     pkl.dump(all_results, handle, protocol=pkl.HIGHEST_PROTOCOL)

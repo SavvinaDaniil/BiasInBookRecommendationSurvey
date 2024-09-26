@@ -4,7 +4,7 @@ import pickle as pkl
 import pandas as pd
 
 
-with open('google_results.pkl', 'rb') as handle:
+with open('search_term_2/datasets/google_results.pkl', 'rb') as handle:
     all_results = pkl.load(handle)
 
 res_df = pd.DataFrame(columns = ['Title','Authors','Venue', 'Year', 'Abstract','Link'])
@@ -22,4 +22,4 @@ for i in range(len(all_results)):
         res_df.at[i, 'Link'] = 'missing'
         
 print(res_df)
-res_df.to_csv('google_results_table.csv',index=False)
+res_df.to_csv('search_term_2/datasets/google_results_table.csv',index=False)
