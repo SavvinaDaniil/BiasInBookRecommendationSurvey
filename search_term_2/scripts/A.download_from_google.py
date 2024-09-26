@@ -41,7 +41,7 @@ while i<nr_results:
     if i%100==0:
         with open('search_term_2/datasets/google_results.pkl', 'wb') as handle:
             pkl.dump(all_results, handle, protocol=pkl.HIGHEST_PROTOCOL)
-        time.sleep(10) # hopefully it won't crash
+        time.sleep(60) # hopefully it won't crash
         
     all_results.append(current_result)
 pbar.close()
