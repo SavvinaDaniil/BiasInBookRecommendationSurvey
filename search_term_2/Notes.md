@@ -9,7 +9,9 @@ Let’s start with searches.
 
 Google scholar
 
-1610 results. Made into table
+1610 results. Download issue, work on it!
+
+
 
 ## Friday, 20 September 2024
 
@@ -46,3 +48,4 @@ We check for eligibility
 We have 24 retrievable results.
 
 15 not eligible, 9 eligible.
+

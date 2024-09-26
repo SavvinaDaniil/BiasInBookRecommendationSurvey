@@ -42,7 +42,7 @@ while i<nr_results:
         with open('search_term_2/datasets/google_results.pkl', 'wb') as handle:
             pkl.dump(all_results, handle, protocol=pkl.HIGHEST_PROTOCOL)
         time.sleep(60) # hopefully it won't crash
-        
+        print('time passed')
     all_results.append(current_result)
 pbar.close()
 
