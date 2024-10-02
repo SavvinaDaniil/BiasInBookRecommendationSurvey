@@ -7,9 +7,9 @@ print('hi')
 import pickle as pkl
 import time
 
-# pg = ProxyGenerator() 
-# success = pg.FreeProxies()
-# scholarly.use_proxy(pg)
+pg = ProxyGenerator() 
+success = pg.FreeProxies()
+scholarly.use_proxy(pg)
 
 search_query = scholarly.search_pubs('("book-crossing" OR "bookcrossing" OR "Librarything" OR "Amazon books" OR "Goodreads" OR "Goodbooks" )("bias") ("recommender")')
 print('hi')
@@ -39,12 +39,12 @@ while i<nr_results:
     pbar.update(1)
     i+=1
     if i%100==0:
-        with open('search_term_2/datasets/google_results.pkl', 'wb') as handle:
+        with open('search_term_2/datasets/google_results_4.pkl', 'wb') as handle:
             pkl.dump(all_results, handle, protocol=pkl.HIGHEST_PROTOCOL)
-        time.sleep(10) # hopefully it won't crash
+        time.sleep(20) # hopefully it won't crash
         print('time passed')
     all_results.append(current_result)
 pbar.close()
 
-with open('search_term_2/datasets/google_results.pkl', 'wb') as handle:
+with open('search_term_2/datasets/google_results_4.pkl', 'wb') as handle:
     pkl.dump(all_results, handle, protocol=pkl.HIGHEST_PROTOCOL)
