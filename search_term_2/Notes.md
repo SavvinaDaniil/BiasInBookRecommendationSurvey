@@ -12,23 +12,42 @@ Google scholar
 1610 results. Download issue, work on it!
 
 
-
-## Friday, 20 September 2024
+## Thursday, 03 October 2024
 
 ### Processing
 Now we start processing
 
+Google scholar
+
+Managed to download 899 results.
+
 Scopus
 
-61 results. Downloaded into table
+60 results. Downloaded into table
 
 Let’s process them.
 
-Merged table. 252 TOTAL. 58 duplicates. 223 left.
+Merged table. 959 TOTAL. 37 duplicates. 940 left.
+
+
+Remove duplicates with the previous search term: 9 of them we already have, so 931 left.
 ### Screening
 Screening starts! First screen only Title and Abstract.
 
-What is relevant: Either practical or theoretical research on the topic of ethics in recommendation of books
+What is relevant:  Bias means BIAS, not bias parameter in algorithms. Not theses. Studying these actual datasets. Not surveys.
+
+
+OMG it's such a terrible thing to be doing. Ill try something different:
+- Take the bias and debias paper, look for the book datasets in the paper they cite.
+    - 227 papers, exported by scopus.
+- Do the search term 2 only from 2022 onwards.
+
+
+
+<span style="color:blue">Tomorrow</span>
+-
+
+
 
 47 relevant, 176 irrelevant (not about the topic at all, not about AI, only academic or research libraries, it was citation of a magazine article or something)
 
