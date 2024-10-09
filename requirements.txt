@@ -2,3 +2,4 @@ jupyter
 scholarly
 pandas
 tqdm
+pybtex

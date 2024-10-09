@@ -47,6 +47,31 @@ OMG it's such a terrible thing to be doing. Ill try something different:
 <span style="color:blue">Tomorrow</span>
 -
 
+## Wednesday, 09 October 2024
+Continue with the initial screening...
+
+No! New idea. Search only in top conferences and journals related to RS. List:
+- [ ] WWW ACM
+- [ ] WSDM ACM
+- [ ] SIGIR ACM
+- [ ] RecSys ACM 
+- [ ] TOIS ACM
+
+
+- [ ] UMAP ACM
+- [ ] (ECIR)
+- [ ] TORS ACM
+- [ ] Frontiers in Big Data|Recommender Systems
+
+Searched term from this file in ACM. 366 results. 259 research articles. 34 short papers. -> 293.\
+Includes the following: RecSys, CIKM, WWW, SIGIR, KDD, WSDM, UMAP, CHI, etc.
+
+
+
+
+
+
+
 
 
 47 relevant, 176 irrelevant (not about the topic at all, not about AI, only academic or research libraries, it was citation of a magazine article or something)
