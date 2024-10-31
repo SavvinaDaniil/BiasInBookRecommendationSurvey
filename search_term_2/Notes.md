@@ -68,6 +68,13 @@ Includes the following: RecSys, CIKM, WWW, SIGIR, KDD, WSDM, UMAP, CHI, etc.
 
 
 
+## Tuesday, 29 October 2024
+Screen these 293 papers. Idea discussed with Laura: Yes for papers that specifically are looking into bias, No for irrelevant, Keep for some incidental so we might include them!
+Let's fucking do it.
+
+
+
+
 
 
 
