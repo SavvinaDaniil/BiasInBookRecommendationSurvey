@@ -73,13 +73,25 @@ Screen these 293 papers. Idea discussed with Laura: Yes for papers that specific
 Let's fucking do it.
 
 
+## Monday, 4 November 2024
+Actually do the fucking thing mentioned above.\
+Goals for this week:
+- [] Screen these ACM papers
+- [] Check citations of the relevant papers
+- [] Find other relevant venues: ECIR,...
+- [] Look for LIS venues \
+I put everything in Notion\
+I am 'keeping' some surveys. How do I search generally: click the link, search the word bias, see if it's relevant, then scheme through the abstract.
+
+Look at information retrieval journal, see: Alejandro Bellogín, Pablo Castells, and Iván Cantador. 2017. Statistical biases in information retrieval metrics for
+recommender systems
+
+Maybe generally springer nature?
 
 
 
 
-
-
-
+# OLD
 
 47 relevant, 176 irrelevant (not about the topic at all, not about AI, only academic or research libraries, it was citation of a magazine article or something)
 
