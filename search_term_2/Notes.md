@@ -91,19 +91,43 @@ Maybe generally springer nature?
 ## Tuesday, 5 November 2024
 Continue the previous task.
 
+Unrelated: bias as in user/item bias in RS, bias in they way they decided some study, inductive bias, some algorithms are called 'biased something', not about RS, not using the datasets (but only referencing them in related work)\
+Keep: not targeted work on uncovering or mitigating bias but incidental results, something interesting about book search/recommendation,
 
 
-# OLD
+*Result*: 293 screened, 45 Yes, 202 no, 46 keep.\
+No duplicates.
 
-47 relevant, 176 irrelevant (not about the topic at all, not about AI, only academic or research libraries, it was citation of a magazine article or something)
+All of them are retrievable (they are from ACM library).
+So I'll check eligibility.
 
-Now the next step is to remove more duplicates.
+To do that I'll make notes on each Yes paper.
 
-Done! We got rid of 16 and have 31.
+Before doing the above: Make list of venues to look for papers.
 
-Now we ll check retrievability. 7 not retrievable, so we check 24 for eligiblity.
+LIS:\
+From Emil's email!
+1. ​Library Quarterly (JSTOR)
+2. Journal of Documentation (Emerald insight)
+3. Cataloging & Classification Quarterly (tandfonline)
+4. Library Trends (John hopkins)
+5. Collection Management (tandfonline)
+6. Journal of the Association for Information Science & Technology (JASIST) (wiley)
 
-Now we check eligibility.
+Other:
+1. ECIR (Springer nature)
+2. Frontiers in Big Data|Recommender Systems (nothing I think)
+3. PeerJ computer science?
+4. Advances in Bias and Fairness in Information Retrieval (Springer nature)
+5. Transforming digital worlds (Springer nature)
+6. Information Processing & Management (elsevier)
+7. User Modeling and User-Adapted Interaction (Sprigner nature)
+8. Transactions on Knowledge and data engineering (IEEE)
+
+
+
+
+
 
 ## Wednesday, 25 September 2024
 
