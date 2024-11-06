@@ -136,6 +136,13 @@ What am I doing: Going through every paper, note what they're doing, look at cit
 
 Clear criterion: Papers that either measure or attempt to mitigate some form of bias in recommender systems, and try their method (of measurement or mitigation) on a book dataset.
 
+Result!! Out of 45 yes's, now I have 33 yes's + 9 keeps + 3 no's\
+I made notes and looked at citations. My conclusion: include springer nature, elsevier, ieee. repeat with the same term.
+
+To-do:
+- Repeat everything for springer nature, elsevier, ieee.
+- Look at keeps! (maybe that later).
+
 
 
 ## Wednesday, 25 September 2024
