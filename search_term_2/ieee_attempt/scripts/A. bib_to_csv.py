@@ -29,7 +29,7 @@ for bib_id in bibdata.entries:
     except:
         res_df.at[i, 'Abstract'] = 'missing'
     try:
-        res_df.at[i, 'Link'] = b['url']
+        res_df.at[i, 'Link'] = b['doi']
     except:
         res_df.at[i, 'Link'] = 'missing'
     author_list = []

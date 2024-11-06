@@ -163,7 +163,9 @@ springer: 86 confernece papers, 89 articles
 
 Let's start with the 17 from elsevier's info processing and management! 5 yes, 1 Keep, 11 no
 
-Let's do ieee tkde! 
+Let's do ieee tkde! 21 papers. 1 yes, 18 no, 2 keep
+
+Let's do springer nature. 
 
 
 
