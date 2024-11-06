@@ -115,15 +115,15 @@ From Emil's email!
 6. Journal of the Association for Information Science & Technology (JASIST) (wiley)
 
 Other:
-1. ECIR (Springer nature)
+1. ECIR (Springer nature) NOT UNIFIED!
 2. Frontiers in Big Data|Recommender Systems (nothing I think)
-3. PeerJ computer science?
 4. Advances in Bias and Fairness in Information Retrieval (Springer nature)
 5. Transforming digital worlds (Springer nature)
 6. Information Processing & Management (elsevier) !!
 7. User Modeling and User-Adapted Interaction (Sprigner nature)
 8. Transactions on Knowledge and data engineering (IEEE)
 9. Data mining and knowledge discovery (springer)
+
 
 
 ## Wednesday, 6 November 2024
@@ -142,6 +142,28 @@ I made notes and looked at citations. My conclusion: include springer nature, el
 To-do:
 - Repeat everything for springer nature, elsevier, ieee.
 - Look at keeps! (maybe that later).
+
+Idea: look only at springer nature places where youve found relevant work.
+
+Other:
+1. ECIR (Springer nature)
+2. Frontiers in Big Data|Recommender Systems (nothing I think)
+3. PeerJ computer science?
+4. Advances in Bias and Fairness in Information Retrieval (Springer nature)
+5. Transforming digital worlds (Springer nature)
+6. Information Processing & Management (elsevier) !! *17*
+7. User Modeling and User-Adapted Interaction (Sprigner nature)
+8. Transactions on Knowledge and data engineering (IEEE)
+9. Data mining and knowledge discovery (springer)
+
+
+
+springer: 86 confernece papers, 89 articles
+
+
+Let's start with the 17 from elsevier's info processing and management! 5 yes, 1 Keep, 11 no
+
+Let's do ieee tkde! 
 
 
 
