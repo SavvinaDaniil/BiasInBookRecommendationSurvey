@@ -120,12 +120,21 @@ Other:
 3. PeerJ computer science?
 4. Advances in Bias and Fairness in Information Retrieval (Springer nature)
 5. Transforming digital worlds (Springer nature)
-6. Information Processing & Management (elsevier)
+6. Information Processing & Management (elsevier) !!
 7. User Modeling and User-Adapted Interaction (Sprigner nature)
 8. Transactions on Knowledge and data engineering (IEEE)
+9. Data mining and knowledge discovery (springer)
 
 
+## Wednesday, 6 November 2024
+To-do: 
+- Finish notes on every 'yes' in eligibility checked.
+- Look at citations of every yes.
+- Do notes on every 'keep'.
 
+What am I doing: Going through every paper, note what they're doing, look at citations and see if they're citing non-acm papers. (See other above.)
+
+Clear criterion: Papers that either measure or attempt to mitigate some form of bias in recommender systems, and try their method (of measurement or mitigation) on a book dataset.
 
 
 
