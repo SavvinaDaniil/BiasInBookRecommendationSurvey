@@ -156,7 +156,7 @@ Other:
 2. Frontiers in Big Data|Recommender Systems (nothing I think)
 3. PeerJ computer science?
 4. Advances in Bias and Fairness in Information Retrieval (Springer nature)
-5. Transforming digital worlds (Springer nature)
+5. Transforming digital worlds (Springer nature) (probably not actually)
 6. Information Processing & Management (elsevier) !! *17*
 7. User Modeling and User-Adapted Interaction (Sprigner nature)
 8. Transactions on Knowledge and data engineering (IEEE)
@@ -182,14 +182,28 @@ Let's do springer nature. Filter in only the interesting venues: Advances in Bia
 
 116 springer articles, 115 springer conference papers.
 
-['User Modeling and User-Adapted Interaction', 'Advances in Bias and Fairness in Information Retrieval', 'Advances in Information Retrieval', 'Data Mining and Knowledge Discovery']
+Springer_list = ['User Modeling and User-Adapted Interaction', 'Advances in Bias and Fairness in Information Retrieval', 'Advances in Information Retrieval', 'Data Mining and Knowledge Discovery']
 
-## Wednesday, 25 September 2024
+26 papers and articles after the above filtering. Let's check relevance
 
-### Eligibility
-We check for eligibility
 
-We have 24 retrievable results.
 
-15 not eligible, 9 eligible. 
 
+
+
+
+
+
+
+
+
+# Final from this search term
+
+| Venue       | Total number| Yes number  | Keep number |
+| ----------- | ----------- | ----------- | ----------- |
+| ACM         | 293         | 33          | 55 (recheck)|
+| Info processing & management (elsevier)   | 17        | 5      | 1       |
+| TKDE (IEEE)   | 21        | 1      | 2       |
+| Springer_list (Springer)   | 26        | 10      |    1    |
+| ----------- | ----------- | ----------- | ----------- |
+| All venues | 257 | 49  | 59 |

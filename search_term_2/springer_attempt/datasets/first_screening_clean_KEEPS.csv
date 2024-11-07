@@ -1,0 +1,2 @@
+Title,Relevant,Notes,Venue,Link,Authors,Year,Type
+Novel and Diverse Recommendations by Leveraging Linear Models with User and Item Embeddings,Keep,"we present EER, a linear model for the top-N recommendation task, which takes advantage of user and item embeddings for improving novelty and diversity without harming accuracy. Librarything",Advances in Information Retrieval,http://link.springer.com/chapter/10.1007/978-3-030-45442-5_27,Alfonso LandinJavier ParaparÁlvaro Barreiro,2020,Chapter
