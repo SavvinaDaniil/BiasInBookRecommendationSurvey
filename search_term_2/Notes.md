@@ -114,6 +114,12 @@ From Emil's email!
 5. Collection Management (tandfonline)
 6. Journal of the Association for Information Science & Technology (JASIST) (wiley)
 
+Laura's:
+7. Digital humanities conference
+8. Digital humanities quarterly (journal)
+
+
+
 Other:
 1. ECIR (Springer nature) NOT UNIFIED!
 2. Frontiers in Big Data|Recommender Systems (nothing I think)
@@ -168,6 +174,15 @@ Let's do ieee tkde! 21 papers. 1 yes, 18 no, 2 keep
 Let's do springer nature. 
 
 
+## Thursday, 7 November 2024
+
+For the LIS vnues, do: "bias" and "recommender" and see. 
+
+Let's do springer nature. Filter in only the interesting venues: Advances in Bias and Fairness in Information Retrieval, Transforming digital worlds, User Modeling and User-Adapted Interaction, Data mining and knowledge discovery
+
+116 springer articles, 115 springer conference papers.
+
+['User Modeling and User-Adapted Interaction', 'Advances in Bias and Fairness in Information Retrieval', 'Advances in Information Retrieval', 'Data Mining and Knowledge Discovery']
 
 ## Wednesday, 25 September 2024
 
@@ -176,5 +191,5 @@ We check for eligibility
 
 We have 24 retrievable results.
 
-15 not eligible, 9 eligible.
+15 not eligible, 9 eligible. 
 
