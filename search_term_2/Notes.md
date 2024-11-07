@@ -107,12 +107,12 @@ Before doing the above: Make list of venues to look for papers.
 
 LIS:\
 From Emil's email!
-1. ​Library Quarterly (JSTOR)
+1. <del>​Library Quarterly (JSTOR)
 2. Journal of Documentation (Emerald insight)
-3. Cataloging & Classification Quarterly (tandfonline)
-4. Library Trends (John hopkins)
-5. Collection Management (tandfonline)
-6. Journal of the Association for Information Science & Technology (JASIST) (wiley)
+3. <del>​Cataloging & Classification Quarterly (tandfonline)
+4. Library Trends (John hopkins) **FOUND IT**
+5. <del>​Collection Management (tandfonline)
+6. Journal of the Association for Information Science & Technology (JASIST) (wiley) **Seems to be not only LIS**
 
 Laura's:
 7. Digital humanities conference
@@ -124,7 +124,7 @@ Other:
 1. ECIR (Springer nature) NOT UNIFIED!
 2. Frontiers in Big Data|Recommender Systems (nothing I think)
 4. Advances in Bias and Fairness in Information Retrieval (Springer nature)
-5. Transforming digital worlds (Springer nature)
+5. <del>Transforming digital worlds (Springer nature)
 6. Information Processing & Management (elsevier) !!
 7. User Modeling and User-Adapted Interaction (Sprigner nature)
 8. Transactions on Knowledge and data engineering (IEEE)
@@ -204,6 +204,10 @@ I finished with this line of work!!!!!
 
 To-do:
 - [ ] Check the keeps of ACM. Reconsider, make notes.
-- [ ]
-- [ ]
-- [ ]
+- [ ] Put all of the technical 'Yes''s together. 
+- [ ] Start going through the library venues. Look for: 'bias', 'recommender'
+
+
+search term 3: ("recommender system" OR "recommendation system" OR "recommendation systems" OR "recommender systems" OR "artificial intelligence" OR "AI") (bias OR diversity OR diverse) *library quarterly*
+
+MAYBE: ("book" OR "books" OR "library" OR "libraries") AND ("recommender system" OR "recommendation system" OR "recommendation systems" OR "recommender systems" OR "artificial intelligence" OR "AI") AND (bias OR diversity OR diverse) *cataloguing quarterly from 2010*, *collection management after 2010*, 
