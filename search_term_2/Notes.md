@@ -184,17 +184,10 @@ Let's do springer nature. Filter in only the interesting venues: Advances in Bia
 
 Springer_list = ['User Modeling and User-Adapted Interaction', 'Advances in Bias and Fairness in Information Retrieval', 'Advances in Information Retrieval', 'Data Mining and Knowledge Discovery']
 
-26 papers and articles after the above filtering. Let's check relevance
+26 papers and articles after the above filtering. Let's check relevance.
+10 relevant, 15 irrelevant,  1 keep
 
-
-
-
-
-
-
-
-
-
+I finished with this line of work!!!!!
 
 
 # Final from this search term
@@ -207,3 +200,10 @@ Springer_list = ['User Modeling and User-Adapted Interaction', 'Advances in Bias
 | Springer_list (Springer)   | 26        | 10      |    1    |
 | ----------- | ----------- | ----------- | ----------- |
 | All venues | 257 | 49  | 59 |
+
+
+To-do:
+- [ ] Check the keeps of ACM. Reconsider, make notes.
+- [ ]
+- [ ]
+- [ ]
