@@ -211,3 +211,5 @@ To-do:
 search term 3: ("recommender system" OR "recommendation system" OR "recommendation systems" OR "recommender systems" OR "artificial intelligence" OR "AI") (bias OR diversity OR diverse) *library quarterly*
 
 MAYBE: ("book" OR "books" OR "library" OR "libraries") AND ("recommender system" OR "recommendation system" OR "recommendation systems" OR "recommender systems" OR "artificial intelligence" OR "AI") AND (bias OR diversity OR diverse) *cataloguing quarterly from 2010*, *collection management after 2010*, 
+
+

@@ -39,7 +39,7 @@ For the LIS vnues, do: "bias" and "recommender" and see.
 
 | Venue       | Total number| Yes number  | Keep number |
 | ----------- | ----------- | ----------- | ----------- |
-| Library Quarterly (2000-...)      | 20         | ?          | ?|
+| Library Quarterly (2000-...)      | 20         | 1          | 2|
 | Journal of Documentation (2000-...) | 52        | ?      | ?       |
 | ​Cataloging & Classification Quarterly (2000-...)   |  56        | ?     | ?       |
 | Library Trends (all time)  | 48       | ?      |    ?   |
@@ -63,3 +63,17 @@ For the LIS vnues, do: "bias" and "recommender" and see.
 ## Friday, 8 November 2024
 
 **Decision:** For the Journal of Documentation, I did this search term: ("book" OR "books" OR "library" OR "libraries") AND ("recommender system" OR "recommendation system" OR "recommendation systems" OR "recommender systems") AND (bias OR diversity OR diverse)
+
+I CHANGED ALL THE COMMAS TO ENDS IN CATALOGUING CLASSIFICATION SO THE PARSER WORKS.
+
+I joined everything and now I have 182 entries. Ill start screening them. Do they discuss bias in recommendation of books in the libraries?
+
+Ideas to solve the fact that I hardly find anything:
+- Maybe I should look into bias in collections?
+- Switch to 'recommendation service'?
+- Broaden bias&diversity: discrimination, fairness...
+
+
+I need to think my search better. What do I need from this search? Papers that discuss the following:
+1. Importance and form of recommending diverse books to users
+2. Potential biases that can arise from automatic recommendation of books to users 

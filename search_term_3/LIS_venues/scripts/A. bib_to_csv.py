@@ -119,7 +119,6 @@ for bib_id in bibdata.entries:
     i+=1
 
 cc_2_df = res_df.copy()
-# print(cc_2_df)
 
 
 # Collection management 
@@ -160,7 +159,7 @@ for bib_id in bibdata.entries:
 col_man_df = res_df.copy()
 # print(col_man_df)
 
-# final_file = pd.concat([lq_df, cc_1_df, cc_2_df, col_man_df], ignore_index=True)
-# print(len(final_file))
-# print(final_file)
-# final_file.to_csv('search_term_2/acm_attempt/datasets/acm_table.csv',index=False)
+final_file = pd.concat([lq_df, cc_1_df, cc_2_df, col_man_df], ignore_index=True)
+print(len(final_file))
+print(final_file)
+final_file.to_csv('search_term_3/LIS_venues/datasets/BIB_table.csv',index=False)
