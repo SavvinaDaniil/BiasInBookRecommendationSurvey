@@ -44,12 +44,19 @@ For the LIS vnues, do: "bias" and "recommender" and see.
 | ​Cataloging & Classification Quarterly (2000-...)   |  56        | ?     | ?       |
 | Library Trends (all time)  | 48       | ?      |    ?   |
 | ​Collection Management (2000-...)  | 6        | ?      |    ?   |
-| Journal of the Association for Information Science & Technology   | Not for now        | Not for now      |    Not for now  |
 | ----------- | ----------- | ----------- | ----------- |
+| All venues | 182 | ?  | ? |
+
+
+
+#### Options for later
+| Venue       | Total number| Yes number  | Keep number |
+| ----------- | ----------- | ----------- | ----------- |
+| Journal of the Association for Information Science & Technology   | ?        | ?      |    ?  |
 | Digital humanities conference   | ?        | ?      |    ?   |
 | Digital humanities journal   | ?        | ?      |    ?   |
 | ----------- | ----------- | ----------- | ----------- |
-| All venues | ? | ?  | ? |
+
 
 
 
