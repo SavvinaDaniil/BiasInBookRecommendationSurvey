@@ -76,4 +76,6 @@ Ideas to solve the fact that I hardly find anything:
 
 I need to think my search better. What do I need from this search? Papers that discuss the following:
 1. Importance and form of recommending diverse books to users
-2. Potential biases that can arise from automatic recommendation of books to users 
+2. Potential biases that can arise from automatic recommendation of books to users
+
+STOP FOR NOW AND THINK. WHAT SHOULD YOU CHANGE?
