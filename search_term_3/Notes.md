@@ -43,7 +43,7 @@ For the LIS vnues, do: "bias" and "recommender" and see.
 | Journal of Documentation (2000-...) | 52        | ?      | ?       |
 | ​Cataloging & Classification Quarterly (2000-...)   |  56        | ?     | ?       |
 | Library Trends (all time)  | 48       | ?      |    ?   |
-| ​Collection Management (2000-...)  | 6        | ?      |    ?   |
+| ​Collection Management (2000-...)  | 6        | 0      |    0   |
 | ----------- | ----------- | ----------- | ----------- |
 | All venues | 182 | ?  | ? |
 
@@ -84,3 +84,17 @@ STOP FOR NOW AND THINK. WHAT SHOULD YOU CHANGE?
 ## Monday, 11 November 2024
 
 **Issue to fix:** I don't seem to actually have retrieved papers that have these terms for cataloguing & classification quarterly. Re-check it.
+
+
+## Tuesday, 12 November 2024
+
+Go on with the next venue, and we'll figure it out.
+
+## Thursday, 14 November 2024
+Ok let's do it. We'll talk tomorrow with Laura about details but for now let's check the papers we have.
+
+0 out of 6...
+
+
+The word seek? information seeking? personalized...? search? library discovery systems (masked by trust)?
+inclusivity? represented? 
