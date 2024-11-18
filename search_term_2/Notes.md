@@ -213,3 +213,12 @@ search term 3: ("recommender system" OR "recommendation system" OR "recommendati
 MAYBE: ("book" OR "books" OR "library" OR "libraries") AND ("recommender system" OR "recommendation system" OR "recommendation systems" OR "recommender systems" OR "artificial intelligence" OR "AI") AND (bias OR diversity OR diverse) *cataloguing quarterly from 2010*, *collection management after 2010*, 
 
 
+## Monday, 18 November 2024
+
+Ok I am back to this. To-dos from earlier.
+
+To-do:
+- [ ] Check the keeps of ACM. Reconsider, make notes.
+- [ ] Put all of the technical 'Yes''s together. 
+
+Start with the firs. Look at the file: eligibility checked for Keeps, and make notes there.
