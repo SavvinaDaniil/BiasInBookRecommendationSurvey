@@ -143,3 +143,8 @@ Read: The Critical Catalog: Library Information Systems,
 Tricksterism, and Social Justice
 
 Search: risks of using ai in libraries
+
+## Monday, 18 November 2024
+
+Informational Justice: A Conceptual Framework for Social Justice in Library and
+Information Services 1
