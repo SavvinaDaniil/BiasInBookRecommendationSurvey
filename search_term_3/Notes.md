@@ -122,10 +122,12 @@ Save everything at mendeley freeform.
 #### Terminology alternatives
 | Original terminology       | Alternative terminology |
 | ----------- | ----------- |
-| Recommender systems   | Library discovery ([see](https://scholarworks.gvsu.edu/library_books/30/), [see](https://muse.jhu.edu/pub/1/article/549202/pdf), [see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y), [see](https://tefkos.comminfo.rutgers.edu/Courses/e553/Articles/Articles%20Sp15/NISO%20report%20future_library_resource_discovery%202015.pdf)), social discovery systems ([see](https://muse.jhu.edu/pub/1/article/485529/pdf)), relevance ranking ([see](https://tefkos.comminfo.rutgers.edu/Courses/e553/Articles/Articles%20Sp15/NISO%20report%20future_library_resource_discovery%202015.pdf))|
-| Bias/diversity   | Representation ([see](https://link.springer.com/book/10.1007/978-94-017-3435-6)), inequality ([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y)), power imbalance([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y)), neutral ([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y), [see](https://tefkos.comminfo.rutgers.edu/Courses/e553/Articles/Articles%20Sp15/NISO%20report%20future_library_resource_discovery%202015.pdf)), exclusion ([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y)), marginalization ([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y)), erasure ([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y)), social justice ([see](https://muse.jhu.edu/pub/1/article/549202/pdf)), inclusiveness ([see](https://www.jstor.org/stable/pdf/10.5749/j.ctt1pwt6wq.40.pdf?acceptTC=true&coverpage=false&addFooter=false))| 
+| Recommender systems   | Library discovery ([see](https://scholarworks.gvsu.edu/library_books/30/), [see](https://muse.jhu.edu/pub/1/article/549202/pdf), [see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y), [see](https://tefkos.comminfo.rutgers.edu/Courses/e553/Articles/Articles%20Sp15/NISO%20report%20future_library_resource_discovery%202015.pdf), [see](https://dl.acm.org/doi/pdf/10.1145/3313831.3376307)), social discovery systems ([see](https://muse.jhu.edu/pub/1/article/485529/pdf)), relevance ranking ([see](https://tefkos.comminfo.rutgers.edu/Courses/e553/Articles/Articles%20Sp15/NISO%20report%20future_library_resource_discovery%202015.pdf), [see](https://dl.acm.org/doi/pdf/10.1145/3313831.3376307)), recommendations ([see](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=6909&context=libphilprac)),  algorithmic systems for information retrieval ([see](https://palrap.org/ojs/palrap/article/view/231)), information seeking ([see](https://palrap.org/ojs/palrap/article/view/231)), knowledge systems ([see](https://dl.acm.org/doi/pdf/10.1145/3313831.3376307)), interactive information systems ([see](https://dl.acm.org/doi/pdf/10.1145/3313831.3376307)), access to information ([see](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2937417))|
+| Bias/diversity   | Representation ([see](https://link.springer.com/book/10.1007/978-94-017-3435-6)), inequality ([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y)), power imbalance([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y)), neutral ([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y), [see](https://tefkos.comminfo.rutgers.edu/Courses/e553/Articles/Articles%20Sp15/NISO%20report%20future_library_resource_discovery%202015.pdf), [see](https://dl.acm.org/doi/pdf/10.1145/3313831.3376307)), exclusion ([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y)), marginalization ([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y), [see](https://dl.acm.org/doi/pdf/10.1145/3313831.3376307)), erasure ([see](https://dspace.mit.edu/bitstream/handle/1721.1/107929/feminism%20and%20future%20library%20discovery.pdf?sequence=1&isAllowed=y), [see](https://dl.acm.org/doi/pdf/10.1145/3313831.3376307)), social justice ([see](https://muse.jhu.edu/pub/1/article/549202/pdf), [see](https://dl.acm.org/doi/pdf/10.1145/3313831.3376307), [see](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2937417)), inclusiveness ([see](https://www.jstor.org/stable/pdf/10.5749/j.ctt1pwt6wq.40.pdf?acceptTC=true&coverpage=false&addFooter=false)), misrepresentation ([see](https://palrap.org/ojs/palrap/article/view/231)), just treatment ([see](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2937417))| 
 
-Additional interesting venues: code4lib journal, 
+
+
+Additional interesting venues: code4lib journal, Library hi tech news, 
 
 Idea: It is also a lot about cataloguing! [See](https://oaktrust.library.tamu.edu/items/f3c5994d-f7d7-4682-9ed1-9eefcee05154)
 
@@ -134,13 +136,13 @@ A library discovery tool is defined in this paper as a search engine that builds
 
 
 
-Read: Feedback Loops
+~~Read: Feedback Loops
 Algorithmic Authority, Emergent Biases, and Implications for Information
 Literacy
-Ian O’Hara
+Ian O’Hara~~ Done
 
-Read: The Critical Catalog: Library Information Systems,
-Tricksterism, and Social Justice
+~~Read: The Critical Catalog: Library Information Systems,
+Tricksterism, and Social Justice~~ Done
 
 Search: risks of using ai in libraries
 
@@ -148,3 +150,14 @@ Search: risks of using ai in libraries
 
 Informational Justice: A Conceptual Framework for Social Justice in Library and
 Information Services 1
+
+
+I read a few papers. 
+
+Not everything I find is about recommendation --  A LOT of it is about search results.
+
+To do:
+- Finish reading the paper by Mathiesen
+- Look at the citations of Mathiesen 
+
+I want to look a bit at the technical papers again.
