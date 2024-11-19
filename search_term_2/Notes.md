@@ -76,10 +76,10 @@ Let's fucking do it.
 ## Monday, 4 November 2024
 Actually do the fucking thing mentioned above.\
 Goals for this week:
-- [] Screen these ACM papers
-- [] Check citations of the relevant papers
-- [] Find other relevant venues: ECIR,...
-- [] Look for LIS venues \
+- [ ] Screen these ACM papers
+- [ ] Check citations of the relevant papers
+- [ ] Find other relevant venues: ECIR,...
+- [ ] Look for LIS venues \
 I put everything in Notion\
 I am 'keeping' some surveys. How do I search generally: click the link, search the word bias, see if it's relevant, then scheme through the abstract.
 
@@ -222,3 +222,10 @@ To-do:
 - [ ] Put all of the technical 'Yes''s together. 
 
 Start with the firs. Look at the file: eligibility checked for Keeps, and make notes there.
+
+## Tuesday, 19 November 2024
+
+To-do:
+- [ ] Check the keeps of ACM (eligibility checked for Keeps). Reconsider, make notes.
+- [ ] Put all of the technical 'Yes''s together.
+- [ ] Put all of the technical 'Keep''s together.
