@@ -227,8 +227,8 @@ Start with the firs. Look at the file: eligibility checked for Keeps, and make n
 
 To-do:
 - [x] Check the keeps of ACM (eligibility checked for Keeps). Reconsider, make notes.
-- [ ] Put all of the technical 'Yes''s together.
-- [ ] Put all of the technical 'Keep''s together.
+- [x] Put all of the technical 'Yes''s together.
+- [x] Put all of the technical 'Keep''s together.
 
 Decision: Don't keep them if they dont measure some sort of bias at the end. 
 
@@ -247,7 +247,9 @@ To-do for updated Keeps:
 - [x] Update to only include keeps in a new file
 - [x] Keep libraries in their own file
 
-Now let's collect all technical yes's!
+Now let's collect all technical yes's! DONE! Both yes and keeps. 51 yes, 39 keep!!! Woo hooooooooo
+
+I will follow up tomorrow with the following:
 
 Format for analysis:
 1. Book data used
