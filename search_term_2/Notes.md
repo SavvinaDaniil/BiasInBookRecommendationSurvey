@@ -194,12 +194,12 @@ I finished with this line of work!!!!!
 
 | Venue       | Total number| Yes number  | Keep number |
 | ----------- | ----------- | ----------- | ----------- |
-| ACM         | 293         | 33          | 55 (recheck)|
+| ACM         | 293         | 35          | 35 **(updated)**|
 | Info processing & management (elsevier)   | 17        | 5      | 1       |
 | TKDE (IEEE)   | 21        | 1      | 2       |
 | Springer_list (Springer)   | 26        | 10      |    1    |
 | ----------- | ----------- | ----------- | ----------- |
-| All venues | 257 | 49  | 59 |
+| All venues | 257 | 51  | 39 |
 
 
 To-do:
@@ -226,6 +226,31 @@ Start with the firs. Look at the file: eligibility checked for Keeps, and make n
 ## Tuesday, 19 November 2024
 
 To-do:
-- [ ] Check the keeps of ACM (eligibility checked for Keeps). Reconsider, make notes.
+- [x] Check the keeps of ACM (eligibility checked for Keeps). Reconsider, make notes.
 - [ ] Put all of the technical 'Yes''s together.
 - [ ] Put all of the technical 'Keep''s together.
+
+Decision: Don't keep them if they dont measure some sort of bias at the end. 
+
+Some papers about: improving long-tail item recommendation for cold start problems. Also, don't keep the ones that are about diversification and there's nothing really about bias...
+
+If there was a conference first and a journal later, I keep journal.
+
+Reasons to keep: coincidental study of bias, or something interesting about books.
+
+From 46 keeps: 26 keeps, 2 yes, 2 library.
+
+**Result**: | All venues | 257 | 51  | 39 |
+
+To-do for updated Keeps:
+- [x] Put yes's into their own file
+- [x] Update to only include keeps in a new file
+- [x] Keep libraries in their own file
+
+Now let's collect all technical yes's!
+
+Format for analysis:
+1. Book data used
+2. Problem: which bias? On which side?
+3. Solution: pre in post?
+4. Results on the book dataset?
