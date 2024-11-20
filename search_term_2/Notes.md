@@ -256,3 +256,8 @@ Format for analysis:
 2. Problem: which bias? On which side?
 3. Solution: pre in post?
 4. Results on the book dataset?
+
+
+## Wednesday, 20 November 2024
+
+I am transferring the technical papers on notion.
