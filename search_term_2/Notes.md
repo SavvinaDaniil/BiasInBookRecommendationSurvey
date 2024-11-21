@@ -272,3 +272,5 @@ Features to track later:
 - [ ] Definitions
 - [ ] Discussion of book special characteristics
 - [ ] Pre-processing of the dataset
+- [ ] Bias perspective: user, item
+- [ ] 
