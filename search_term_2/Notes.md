@@ -267,3 +267,8 @@ I am transferring the technical papers on notion.
 
 Thought: Think about definitions (i.e., of pop bias).
 Think in what way they do any mention of book properties. 
+
+Features to track later:
+- [ ] Definitions
+- [ ] Discussion of book special characteristics
+- [ ] Pre-processing of the dataset
