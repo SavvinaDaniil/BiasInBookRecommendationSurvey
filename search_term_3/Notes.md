@@ -1,4 +1,4 @@
-# Search term 2
+# Search term 3
 
 We look for studies in library related venues.
 
@@ -161,3 +161,10 @@ To do:
 - Look at the citations of Mathiesen 
 
 I want to look a bit at the technical papers again.
+
+
+## Thursday, 21 November 2024
+
+- [ ] Finish reading the paper by Mathiesen
+- [ ] Look at the citations of Mathiesen
+- [ ] Read final report for Project Laibro

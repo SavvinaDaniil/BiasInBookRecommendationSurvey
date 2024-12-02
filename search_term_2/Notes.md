@@ -1,3 +1,4 @@
+
 # Search term 2
 
 We look for incidental studies.
@@ -261,6 +262,18 @@ Format for analysis:
 ## Wednesday, 20 November 2024
 
 I am transferring the technical papers on notion.
+
+## Thursday, 21 November 2024
+
+Thought: Think about definitions (i.e., of pop bias).
+Think in what way they do any mention of book properties. 
+
+Features to track later:
+- [ ] Definitions
+- [ ] Discussion of book special characteristics
+- [ ] Pre-processing of the dataset
+- [ ] Bias perspective: user, item
+- [ ] 
 
 ## Wednesday, 27 November 2024
 
