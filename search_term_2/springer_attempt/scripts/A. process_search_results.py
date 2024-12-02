@@ -26,4 +26,5 @@ full_df = pd.concat([art_df, conf_df]).reset_index(drop=True)
 venues_to_include = ['User Modeling and User-Adapted Interaction', 'Advances in Bias and Fairness in Information Retrieval', 'Advances in Information Retrieval', 'Data Mining and Knowledge Discovery']
 print(len(full_df[full_df.Venue.isin(venues_to_include)].reset_index(drop=True)))
 
+
 full_df[full_df.Venue.isin(venues_to_include)].reset_index(drop=True).to_csv('search_term_2/springer_attempt/datasets/springer_table.csv',index=False)

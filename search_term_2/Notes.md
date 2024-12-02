@@ -261,3 +261,9 @@ Format for analysis:
 ## Wednesday, 20 November 2024
 
 I am transferring the technical papers on notion.
+
+## Wednesday, 27 November 2024
+
+Other things to keep track of: defintions about bias and fairness, preprocessing (filtering) of the datasets, was there hyperparameter tuning, framework used, is it social or statistical bias, are they reproducible!
+
+**Problem**: I just noticed an issue: double spaced title of conference made me miss a paper from springer. FIX!
