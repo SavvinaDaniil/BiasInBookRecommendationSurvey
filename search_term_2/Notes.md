@@ -280,3 +280,7 @@ Features to track later:
 Other things to keep track of: defintions about bias and fairness, preprocessing (filtering) of the datasets, was there hyperparameter tuning, framework used, is it social or statistical bias, are they reproducible!
 
 **Problem**: I just noticed an issue: double spaced title of conference made me miss a paper from springer. FIX!
+
+## Τhursday, 5 December 2024
+
+Decision: Read through them a bit more quickly. 
