@@ -273,7 +273,10 @@ Features to track later:
 - [ ] Discussion of book special characteristics
 - [ ] Pre-processing of the dataset
 - [ ] Bias perspective: user, item
-- [ ] 
+- [ ] Hyperparameter tuning?
+- [ ] Framework used?
+- [ ] Social or statistical bias?
+- [ ] Is the work reproducible?
 
 ## Wednesday, 27 November 2024
 
