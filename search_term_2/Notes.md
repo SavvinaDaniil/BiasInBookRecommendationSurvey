@@ -277,6 +277,7 @@ Features to track later:
 - [ ] Framework used?
 - [ ] Social or statistical bias?
 - [ ] Is the work reproducible?
+- [ ] Measuring or mitigation of bias?
 
 ## Wednesday, 27 November 2024
 
