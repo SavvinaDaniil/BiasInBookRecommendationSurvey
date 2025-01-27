@@ -168,3 +168,10 @@ I want to look a bit at the technical papers again.
 - [ ] Finish reading the paper by Mathiesen
 - [ ] Look at the citations of Mathiesen
 - [ ] Read final report for Project Laibro
+
+## Monday, 27 January 2025
+By Gauri: Electronic Library (very good source for technical things), LISA: Library and Information Science Abstracts,
+
+maybe scholarly recommender systems?
+
+terms: digital divide, systemic exclusion, unethical algorithms, underrepresentation of minorities,
