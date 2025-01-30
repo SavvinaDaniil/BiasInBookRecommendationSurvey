@@ -10,10 +10,22 @@
 ## Thu 30.01.2025
 Ok so I am officially done with reading papers. Now i need to think about a plan.
 
-1. What should Gauri know? What is expected from her?
-    1. I plan to complete the paper within the next 4 to 6 weeks (ideally 4 given the fact that I am leaving for CPH March first).
-    2. There will be a section in the paper with background info on LIS. There should be papers that describe potential dangers of recommender systems in the public library sector and/or what would make such systems inclusive. So how things could be and how they should be.
-    3. I expect Gauri to work on the part above, as well as review and give opinion on the paper as a whole.
-    4. The plan is to submit this paper at a journal, specifically ACM TORS.
-    5. Gauri will be co-author of the paper (with me as lead author, and Laura as PI)
-    6. We should make a timeline. What is her availability?
+**What should Gauri know? What is expected from her?**
+1. I plan to complete the paper within the next 4 to 6 weeks (ideally 4 given the fact that I am leaving for CPH March first).
+2. There will be a section in the paper with background info on LIS. There should be papers that describe potential dangers of recommender systems in the public library sector and/or what would make such systems inclusive. So how things could be and how they should be.
+3. I expect Gauri to work on the part above, as well as review and give opinion on the paper as a whole.
+4. The plan is to submit this paper at a journal, specifically ACM TORS.
+5. Gauri will be co-author of the paper (with me as lead author, and Laura as PI)
+6. We should make a timeline. What is her availability?
+
+
+### Plan
+1. Describe prisma methodology and how you used it
+2. Write more in introduction
+3. Go through the prisma steps
+4. Results:
+    1. Overall statistics
+    2. Statistics per column (e.g., dataset, code provided etc)
+    3. Divide into: statistical, social
+    4. Divide into: user, provider (who are providers)
+5. Expand discussion
