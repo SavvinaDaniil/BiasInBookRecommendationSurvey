@@ -21,8 +21,8 @@ Ok so I am officially done with reading papers. Now i need to think about a plan
 
 ### Plan
 1. [x]  Describe prisma methodology and how you used it
-2. [ ]  Write more in introduction
-3. [ ]  Go through the prisma steps
+2. [x]  Write more in introduction
+3. [x]  Go through the prisma steps
 4. [ ]  Results:
     1. [ ]  Overall statistics
     2. [ ]  Statistics per column (e.g., dataset, code provided etc)
