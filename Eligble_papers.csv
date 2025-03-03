@@ -245,4 +245,19 @@ or documents are treated fairly. One way to eval
 uate
 this is by measuring whether the exposure different providers
 receive from the system is equitably distributed among providers
+<<<<<<< Updated upstream
 of documents with comparable relevance",Yes,Yes,Yes,"Author, Item, Provider",Item,Unclear,No,No,Unknown,"Gender, Social",Social,Measuring,https://doi.org/10.1145/3442381.3450080,Proceedings of the Web Conference 2021,WWW,ACM,Research,2021
+=======
+of documents with comparable relevance",Yes,Yes,"Author, Item, Provider",Unclear,No,Unknown,"Gender, Social",Measuring,https://doi.org/10.1145/3442381.3450080,Proceedings of the Web Conference 2021,WWW,ACM,Research,2021
+52,Done,Hidden Author Bias in Book Recommendation,Book-crossing,Book-crossing,"popularity bias often leads
+to other biases that are not obvious when additional user or item
+information is not provided to the researcher.","VAECF, BPR, NeuMF, UserKNN, PF, WMF, PMF, NMF,MG, MostPop, Random",Explicit,enrich it with author information using publicly available external sources. compare popularity bias with bias towards author nationality,"DGAP, group representation","popular books
+are mainly written by US citizens in the dataset, and that these
+books tend to be recommended disproportionally by popular collaborative filtering algorithms compared to the users’ profiles.",Both,"[popularity bias] tems from the users’ tendency to provide feedback to
+popular items more often than long-tail items, which may not
+represent their true preferences. A system that recommends solely
+popular items to every user might score high on accuracy metrics,
+but it does not satisfy other requirements like item coverage",Yes,Yes,"Author, Item",No,Yes,Cornac,"Statistical, Social, Popularity, Location",Measuring,https://arxiv.org/pdf/2209.00371,Arxiv,Arxiv,Arxiv,,2022
+53,Done,Eliminating bias: enhancing children’s book recommendation using a hybrid model of graph convolutional networks and neural matrix factorization,"GoodReads, Amazon-books, scraped","GoodReads, Amazon-books","Users tend to give extreme reviews when evaluating that don't reflect book quality, especially problems in children's books cause parents don't deeply understand/analyze the books but they are based on superficial factors (e.g., cover)","Irrelevant: No RS process, Actually that's not true but i can't really find it",Explicit,Novel hybrid model that combines graph convolutional networks based on bipartite graphs and neural matrix factorization to accurately capture user bias.,"ratings from top reviewers as unbiased standard: MSE and rank Absolute error, also NDCG performance of recommendation",- their method yields the lowest MSE and rank absolute error compared to other methods,Both,,Yes,Yes,Item,Unclear,No,Unknown,"Statistical, Extreme-rating",Mitigating,https://peerj.com/articles/cs-1858/,PeerJ Computer Science,Computer Science,PeerJ,,2024
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+>>>>>>> Stashed changes
