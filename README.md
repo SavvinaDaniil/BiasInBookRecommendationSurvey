@@ -51,3 +51,6 @@ Once you have completed the installation steps, you can now run the bias analysi
    jupyter notebook
    ```
    Make sure that jupyter points to the jupyter installed from the requirements file. You may need to deactivate and activate the environment again.
+
+
+*This research was carried out with funding from the KB National Library of the Netherlands.*
